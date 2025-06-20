@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "fractalforest"]
+	path = fractalforest
+	url = https://github.com/cran/fractalforest
 [submodule "timbeR"]
 	path = timbeR
 	url = https://github.com/sergiocostafh/timber
